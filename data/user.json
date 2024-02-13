@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Svenja",
+                "last": "Leuschner"
+            },
+            "location": {
+                "street": {
+                    "number": 2893,
+                    "name": "Drosselweg"
+                },
+                "city": "Bergisch Gladbach",
+                "state": "Baden-W�rttemberg",
+                "country": "Germany",
+                "postcode": 48011,
+                "coordinates": {
+                    "latitude": "-52.3950",
+                    "longitude": "154.6547"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "svenja.leuschner@example.com",
+            "login": {
+                "uuid": "e8a84310-6c99-4d26-9132-e89bfbfe4809",
+                "username": "blacktiger603",
+                "password": "cigars",
+                "salt": "WKK1kAwf",
+                "md5": "0a85473e7145ff1c262bde6075c6afde",
+                "sha1": "1d7f01bec585d06f9401e5fb84d5d9c4e65718ed",
+                "sha256": "7128f55bbcb71c13e71a5cfa20b19c86b5214422255960b24b0694534b4c0eb6"
+            },
+            "dob": {
+                "date": "1979-11-03T04:02:47.512Z",
+                "age": 43
+            },
+            "registered": {
+                "date": "2016-06-26T00:58:52.076Z",
+                "age": 7
+            },
+            "phone": "0799-2505448",
+            "cell": "0179-3822980",
+            "id": {
+                "name": "SVNR",
+                "value": "16 021179 L 936"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/96.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "38a888bcd5212dac",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
